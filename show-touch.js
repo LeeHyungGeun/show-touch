@@ -11,6 +11,6 @@ document.body.appendChild($point);
 document.body.addEventListener('click', e => {
   const { pageX, pageY } = e;
 
-  $point.style.left = pageX + 'px';
-  $point.style.top = pageY + 'px';
+  $point.style.left = (pageX - window.scrollX) + 'px';
+  $point.style.top = (pageY - window.scrollY) + 'px';
 });
