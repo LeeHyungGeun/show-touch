@@ -1,0 +1,20 @@
+{
+  "name": "show-touch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "show-touch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeHyungGeun/show-touch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeHyungGeun/show-touch/issues"
+  },
+  "homepage": "https://github.com/LeeHyungGeun/show-touch#readme"
+}
